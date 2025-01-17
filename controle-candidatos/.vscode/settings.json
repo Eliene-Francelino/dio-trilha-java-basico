@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "src\\candidatura"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": []
+}
